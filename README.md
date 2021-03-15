@@ -1,2 +1,2 @@
 # NLPWordsTree-spicy
-testing some MLP libraries
+testing some NLP libraries
