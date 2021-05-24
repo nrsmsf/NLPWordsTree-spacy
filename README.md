@@ -1,2 +1,2 @@
-# NLPWordsTree-spicy
+# NLPWordsTree-spacy
 testing some NLP libraries
